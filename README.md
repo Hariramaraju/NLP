@@ -9,3 +9,9 @@ The output should be driven keeping in mind the reply tothe question.
 
 NLP Questions.ipynb contains the initial classification analysis script, where I code different classifiers and compare them with each other,
 then select best model.
+
+Python packages :
+    python = '3.7.1'
+    Pandas ='0.23.4'
+    numpy = '1.15.4'
+    sklearn = '0.20.2'
